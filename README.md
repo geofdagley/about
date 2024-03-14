@@ -2,6 +2,8 @@
 
 ## Introduction
 
+<img align="right" width="200" height="200" src="images/Beard.png">
+
 This is a personal guide to my management style, communication preferences, and expectations. It's designed to foster an understanding of how we can best work together, support each other's growth, and achieve our team goals. Through this document, I aim to build a transparent, collaborative, and respectful team environment, emphasizing continuous improvement and mutual success.
 
 ### Background
@@ -110,6 +112,16 @@ I have been a rocket scientist, an ERP software engineer, a programming instruct
 I have six 6 kids (4 girls and 2 boys) so there is never a lack of excitement in my house.  We also have 3 French Bulldogs and occasionally have litters of puppies that might show up on Zoom calls.
 
 I occassionally color my beard to support my kids' sports teams, celebrate major achievements, or "just because" :D 
+
+<img height="250" src="images/Family.jpeg">
+<img height="250" src="images/Puppies.jpeg">
+<img height="250" src="images/Beard.png">
+
+I try, as often as possible, to escape the hustle and bustle of the DFW Metroplex for a little more solitude in our [cabin in Broken Bow, OK](https://worrybgonecabin.com).  Lastly, I have been a part of [over 100 patents](https://patents.google.com/?inventor=geoffrey+dagley) during my time at Capital One for all sorts of "crazy ideas" ;)
+
+<img height="250" src="images/Cabin.jpeg">
+<img height="250" src="images/Patents.jpeg">
+
 
 ## Continuous Improvement
 
